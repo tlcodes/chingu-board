@@ -1,0 +1,29 @@
+Jobbatical Clone Project: Chingu Projects Board
+
+Home page
+
+All project listings (Explore all projects / explore all jobs on Jobbatical)
+
+Auth: join, signin
+- form input fields
+- form validation
+
+Profile:
+- User details
+- Add projects
+- User Projects listing
+- Close/Delete Projects
+
+Add projects when logged in
+(form fields/input)
+- title, description (+ prototype/clone image), languages/skills needed, tags (mobile, web app, backend, frontend, type of app such as "bot" or "extension")
+
+Search function
+- search bar at the top of All projects page
+
+Applicants to projects (must be signed in):
+Click to notify creator of project (example button "Join!" or "I'm interested")
+
+create repo
+Add collaborators
+Decide stack
